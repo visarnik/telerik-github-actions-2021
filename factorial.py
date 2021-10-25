@@ -9,14 +9,12 @@ def factorial(n):
         factorial = factorial * i
     return factorial
 
-
 def sum_factorial():
     for i in range(50):
         final_list.append(factorial(i))
     result = sum(final_list)
     print("Final SUM = {}".format(result))
     return result
-
 
 if __name__ == "__main__":
     sum_factorial()
