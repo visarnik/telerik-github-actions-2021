@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@visarnik 
-severel
-/
-telerik-github-actions-2021
-Public
-forked from kdvalkov/telerik-github-actions-2021
-0
-040
-Code
-Pull requests
-2
-Actions
-Projects
-Wiki
-Security
-Insights
-telerik-github-actions-2021/.github/workflows/default.yml_
-@severel
-severel Rename default.yml to default.yml_
-Latest commit b57d354 2 hours ago
- History
- 1 contributor
-152 lines (150 sloc)  4.27 KB
-   
 name: Telerik-Github-Actions-Practice
 env:
   WORKSPACE_ENVIRONMENT_VARIABLE: 'custom workspace environment variable'
@@ -180,17 +149,3 @@ jobs:
 #       with:
 #        target: 'https://www.zaproxy.org'
     
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
